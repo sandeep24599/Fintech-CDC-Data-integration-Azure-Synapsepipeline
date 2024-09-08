@@ -35,7 +35,15 @@ The **Fintech-CDC Data Integration Pipeline** efficiently moves historical data 
 - **Bronze-Silver-Gold Data Architecture**: A layered approach to data processing for raw, clean, and enriched data.
 - **PySpark-Based Data Transformations**: Leverages PySpark for handling large-scale data efficiently.
 - **Automated and Incremental Data Loads**: Supports CDC (Change Data Capture) for incremental data loading and automated pipeline execution.
+### Synapse Pipeline
 ![image](https://github.com/user-attachments/assets/cec7de0e-2005-41ba-80cd-4d8a8aa38bb2)
+
+### ADLS Containers
+![image](https://github.com/user-attachments/assets/4ecde48a-4a23-44b7-8bc9-09392216cc25)
+
+### SQL Database
+![image](https://github.com/user-attachments/assets/29863c0e-219c-4420-a48a-6b016419f2e2)
+
 Before running this pipeline, ensure you have the following:
 
 - **Azure Synapse Analytics Workspace**
